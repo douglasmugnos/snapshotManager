@@ -1,0 +1,2 @@
+# snapshotManager
+Manage AWS SNAPSHOT
